@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.projects{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    row-gap: 10px;
+}
